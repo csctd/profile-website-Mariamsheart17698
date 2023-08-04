@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Site Title'
-copyright = '2022, Your name'
+copyright = Mariam Durowoju'
 author = 'Your Name'
 
 
