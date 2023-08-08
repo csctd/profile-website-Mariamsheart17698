@@ -42,3 +42,13 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+
+# Profile Website
+
+Welcome to my profile webiste, fellas!
+
+
+Since you're here, you might be: 
+<!-- . Dora, who's looking for steps and information to find Boot's dinosaur
+    .   Spongebob, looking for information about the bikini bottom
+    .   Scooby Bo, looking for kind of snacks to obtain
