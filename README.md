@@ -33,7 +33,6 @@ nox -s docs-live
 ```
 
 If on Codespaces, use accept the port forwarding and open the forwarded port in a new browser tab to preview your site while you work. 
-
 <!-- 
 Run `nox`
 
